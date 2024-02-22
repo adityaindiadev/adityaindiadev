@@ -30,7 +30,7 @@ A package that provides class component support for React Router v6 and enables 
 ## Let's Connect
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/aditya-gupta-india/)
-- 🌐 [Portfolio](https://www.npmjs.com/~adityaindiadev)
+- 🌐 [NPM Packages](https://www.npmjs.com/~adityaindiadev)
 - 🌐 [Portfolio](https://adityadev.co.in/)
 
 ## Get in Touch
