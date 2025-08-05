@@ -6,7 +6,8 @@ I'm Aditya Gupta, a passionate 📱 Mobile and 🖥️ Front-end Developer who l
 
 ## About Me
 
-- ⚡️ Software Engineer | Mobile & Front-End Developer | Tech Innovator (Creator of NirvanaSurf)
+- 🧘 Built NirvanaSurf — Chrome extension that blocks 18+ sites to help users stay focused
+- ⚡️ Passionate about clean UI, fast code, and open source (published NPM packages)
 - 🏆 Winner of Flipkart Seller HackDay 2025 & Smart India Hackathon 2019
 - 💻 Main Skills: React, React Native, Front-End Development, Server-Driven UI
 - 🚀 Currently diving deep into the world of mobile and front-end technologies
@@ -46,7 +47,7 @@ A package that provides class component support for React Router v6 and enables 
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/aditya-gupta-india/)
 - 🌐 [NPM Packages](https://www.npmjs.com/~adityaindiadev)
-- 🌐 [Portfolio](https://adityadev.co.in/)
+- 🌐 [LeetCode](https://leetcode.com/u/adityaindiadev/)
 
 ## Get in Touch
 
