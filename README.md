@@ -30,7 +30,7 @@ developed using React, ffmpeg.wasm.
 
 Check if the Android device has the developer options enabled.
 
-### 4. [Easy Percent Calculator](sparkling-frangollo-ea64ce.netlify.app)
+### 4. [Easy Percent Calculator](https://sparkling-frangollo-ea64ce.netlify.app/)
 
 Simple and powerful percentage calculations with mobile first design.
 
