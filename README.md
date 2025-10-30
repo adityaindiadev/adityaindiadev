@@ -21,7 +21,7 @@ I'm Aditya Gupta, a passionate 📱 Mobile and 🖥️ Front-end Developer who l
 
 18+ Adult and Scam Website Blocker. It doesn't affect normal browsing, so feel free and enjoy.
 
-### 2. [Video 2 GIF](https://video2gif.adityadev.co.in/)
+### 2. [Video 2 GIF](https://chic-lily-4396df.netlify.app/)
 
 Convert your videos into GIFs with our fast, easy, and free GIF maker. Convert to GIFs in just a few taps.
 developed using React, ffmpeg.wasm.
@@ -30,7 +30,7 @@ developed using React, ffmpeg.wasm.
 
 Check if the Android device has the developer options enabled.
 
-### 4. [Easy Percent Calculator](https://easypercent.adityadev.co.in/)
+### 4. [Easy Percent Calculator](sparkling-frangollo-ea64ce.netlify.app)
 
 Simple and powerful percentage calculations with mobile first design.
 
